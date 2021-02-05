@@ -20,10 +20,10 @@ npm run serve
 ```
 npm run build
 ```
-[![Watch the video](https://youtu.be/jBgYt-m7_Zg)
+https://youtu.be/jBgYt-m7_Zg
 
 
-[![Watch the video](https://youtu.be/l8eWhTI9tg4)
+https://youtu.be/l8eWhTI9tg4
 
 
 APK file in "pensioner.apk"
